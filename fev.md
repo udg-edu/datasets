@@ -1,0 +1,3 @@
+The forced expiratory volume, FEV, is a measure of how much air a person can exhale (in liter) during a forced breath. In this dataset, the FEV of 606 children, between the ages of 6 and 17, were measured. The dataset also provides additional information on these children: their age, their height, their gender and, most importantly, whether the child is a smoker or a non-smoker.
+
+The goal of this experiment was to find out whether or not smoking has an effect on the FEV of children.
