@@ -1,0 +1,61 @@
+ID	Tractament	Cansament	Puntuació
+Cas 1	Placebo	Fresc	24
+Cas 2	Placebo	Fresc	25
+Cas 3	Placebo	Fresc	13
+Cas 4	Placebo	Fresc	22
+Cas 5	Placebo	Fresc	16
+Cas 6	Placebo	Fresc	23
+Cas 7	Placebo	Fresc	18
+Cas 8	Placebo	Fresc	19
+Cas 9	Placebo	Fresc	24
+Cas 10	Placebo	Fresc	26
+Cas 11	Placebo	Cansat	13
+Cas 12	Placebo	Cansat	12
+Cas 13	Placebo	Cansat	14
+Cas 14	Placebo	Cansat	16
+Cas 15	Placebo	Cansat	17
+Cas 16	Placebo	Cansat	13
+Cas 17	Placebo	Cansat	4
+Cas 18	Placebo	Cansat	3
+Cas 19	Placebo	Cansat	2
+Cas 20	Placebo	Cansat	6
+Cas 21	Fàrmac A	Fresc	18
+Cas 22	Fàrmac A	Fresc	8
+Cas 23	Fàrmac A	Fresc	9
+Cas 24	Fàrmac A	Fresc	14
+Cas 25	Fàrmac A	Fresc	16
+Cas 26	Fàrmac A	Fresc	15
+Cas 27	Fàrmac A	Fresc	6
+Cas 28	Fàrmac A	Fresc	9
+Cas 29	Fàrmac A	Fresc	8
+Cas 30	Fàrmac A	Fresc	17
+Cas 31	Fàrmac A	Cansat	21
+Cas 32	Fàrmac A	Cansat	24
+Cas 33	Fàrmac A	Cansat	22
+Cas 34	Fàrmac A	Cansat	23
+Cas 35	Fàrmac A	Cansat	20
+Cas 36	Fàrmac A	Cansat	13
+Cas 37	Fàrmac A	Cansat	11
+Cas 38	Fàrmac A	Cansat	17
+Cas 39	Fàrmac A	Cansat	13
+Cas 40	Fàrmac A	Cansat	16
+Cas 41	Fàrmac B	Fresc	27
+Cas 42	Fàrmac B	Fresc	14
+Cas 43	Fàrmac B	Fresc	19
+Cas 44	Fàrmac B	Fresc	29
+Cas 45	Fàrmac B	Fresc	27
+Cas 46	Fàrmac B	Fresc	23
+Cas 47	Fàrmac B	Fresc	19
+Cas 48	Fàrmac B	Fresc	17
+Cas 49	Fàrmac B	Fresc	20
+Cas 50	Fàrmac B	Fresc	25
+Cas 51	Fàrmac B	Cansat	21
+Cas 52	Fàrmac B	Cansat	11
+Cas 53	Fàrmac B	Cansat	14
+Cas 54	Fàrmac B	Cansat	22
+Cas 55	Fàrmac B	Cansat	19
+Cas 56	Fàrmac B	Cansat	9
+Cas 57	Fàrmac B	Cansat	14
+Cas 58	Fàrmac B	Cansat	11
+Cas 59	Fàrmac B	Cansat	21
+Cas 60	Fàrmac B	Cansat	18
